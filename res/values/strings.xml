@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">love calculator</string>
+    <string name="your_name">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fname">Your name</string>
+    <string name="pname">Crush,Partner name</string>
+    <string name="check">Submit</string>
+    <string name="other">New</string>
+    <string name="title_activity_result">Result</string>
+    <string name="hello_world">Fenching ....</string>
+     <string name="zero">0%</string>
+      <string name="rate">success rate</string>
+
+</resources>
